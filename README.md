@@ -25,4 +25,4 @@ Pour déplacer les mineurs, on place sur un plateau des marqueurs :
 ## Répartition des tâches :
 - ***Antoine*** : Score/ComboManager, Interface, Inputs, Generation d'Obstacles Endless
 - ***Rendy*** : Sons, Animations, Particules, Game Manager, Minerais, Animation des Wagons, Post Processing
-- *Wagons & Rails réalisés par MediaaEdit, IG : Mediaa.edits*
+- *Wagons & Rails réalisés par MediaaEdit, **IG : Mediaa.edits***

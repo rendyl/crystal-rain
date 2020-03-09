@@ -22,6 +22,9 @@ Pour déplacer les mineurs, on place sur un plateau des marqueurs :
 - Ensuite on détermine la position relative des marqueurs par rapport aux coins dans ce repère
 - On réalise ensuite la correspondance entre la position d'un marqueur et la position dans le jeu
 
+## Vidéo du Projet :
+https://drive.google.com/file/d/1V9GThSni9D0ml_zE5xr_uDjKpsWV3l6d/view
+
 ## Répartition des tâches :
 - ***Antoine*** : Score/ComboManager, Interface, Inputs, Generation d'Obstacles Endless
 - ***Rendy*** : Sons, Animations, Particules, Game Manager, Minerais, Animation des Wagons, Post Processing

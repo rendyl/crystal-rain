@@ -23,7 +23,7 @@ Pour déplacer les mineurs, on place sur un plateau des marqueurs :
 - On réalise ensuite la correspondance entre la position d'un marqueur et la position dans le jeu
 
 ## Vidéo du Projet :
-https://drive.google.com/file/d/1V9GThSni9D0ml_zE5xr_uDjKpsWV3l6d/view
+https://www.youtube.com/watch?v=TPD5SFzNiJY
 
 ## Répartition des tâches :
 - ***Antoine*** : Score/ComboManager, Interface, Inputs, Generation d'Obstacles Endless
